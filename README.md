@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rayen Ben Boubaker</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
+- 🔭 I am currently seeking new opportunities . **to embark on my journey as a software engineer**
+
 - 💬 Ask me about **Java frameworks & DevOps**
 
 - 📫 How to reach me **rayenbnboubaker@gmail.com**
